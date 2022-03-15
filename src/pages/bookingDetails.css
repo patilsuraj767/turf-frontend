@@ -1,0 +1,12 @@
+.bookingdetails {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.detailAttribute {
+    font-weight: bold;
+    margin-right: 10px;
+}
+.actionPanel {
+    margin-top: 20px;
+}

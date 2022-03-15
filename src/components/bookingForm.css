@@ -1,0 +1,22 @@
+.bookingForm label {
+    text-align: left;
+    display: block;
+}
+.bookingForm input, .bookingForm textarea {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+}
+.bookingForm button {
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.submitbutton {
+    background: #08bd71;
+}

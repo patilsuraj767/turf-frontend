@@ -1,0 +1,57 @@
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navbar h1 {
+  color: #08bd71;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar a:hover {
+  color: #08bd71;
+}
+
+.content {
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.actionColumn {
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 130px;
+  
+}
+
+.formBooking {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.formBooking h2 {
+  font-size: 20px;
+  color: #08bd71;
+  margin-bottom: 30px;
+}
+.dateSelector {
+  margin-bottom: 20px;
+}
+
+.dateSelector label{
+  text-align: left;
+  margin-right: 10px;
+}
+.dateSelector input{
+  margin-right: 10px;
+}
